@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "mods": [
+    {
+      "id": "clean_nav_mod",
+      "name": "Clean Navigation Mod",
+      "description": "Убирает вкладки Альбомы и Исполнители из нижней панели.",
+      "version": "1.0.0",
+      "minAppVersion": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/nozar0446-arch/Fenics-Mods/main/mods/clean_nav_mod.json"
+    }
+  ]
+}
