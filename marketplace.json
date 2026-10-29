@@ -7,7 +7,7 @@
       "description": "Убирает вкладки Альбомы и Исполнители из нижней панели.",
       "version": "1.0.0",
       "minAppVersion": 1,
-      "downloadUrl": "https://raw.githubusercontent.com/nozar0446-arch/Fenics-Mods/main/mods/clean_nav_mod.json"
+      "downloadUrl": "https://raw.githubusercontent.com/fenicsofficial/Fenics-Mods/refs/heads/main/mods/clean_nav_mod.json"
     }
   ]
 }
