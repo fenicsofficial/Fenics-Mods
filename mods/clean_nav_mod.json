@@ -1,0 +1,9 @@
+{
+  "id": "clean_nav_mod",
+  "name": "Clean Navigation Mod",
+  "version": "1.0.0",
+  "disabledTabs": [
+    "action_album",
+    "action_artist"
+  ]
+}
