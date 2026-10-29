@@ -1,7 +1,9 @@
 {
   "id": "clean_nav_mod",
   "name": "Clean Navigation Mod",
+  "description": "Убирает вкладки Альбомы и Исполнители из нижней панели.",
   "version": "1.0.0",
+  "minAppVersion": 1,
   "disabledTabs": [
     "action_album",
     "action_artist"
